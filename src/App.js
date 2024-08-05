@@ -5,7 +5,7 @@ function App() {
 
   return (
     <div className="App">
-      hi {state} this is a sample pwa
+      hi {state} this is a sample pwa 2
     </div>
   );
 }
